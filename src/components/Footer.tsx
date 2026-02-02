@@ -9,7 +9,7 @@ const Footer = () => {
             © {new Date().getFullYear()} Avanish Kumar Tiwari. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground flex items-center gap-1.5">
-            Built with <Heart className="w-4 h-4 text-primary fill-primary" /> using React
+            Built with <Heart className="w-4 h-4 text-primary fill-primary" /> By Avanish
           </p>
         </div>
       </div>
